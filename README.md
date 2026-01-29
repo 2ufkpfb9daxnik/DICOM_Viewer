@@ -2,7 +2,7 @@
 
 [マニュアル](doc/manual.md)
 
-実行ファイルはReleasesからダウンロードしてください。
+[実行ファイルはReleasesからダウンロードしてください。](releases/tag/v1)
 
 ## 開発
 
