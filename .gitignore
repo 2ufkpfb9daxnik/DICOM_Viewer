@@ -1,0 +1,7 @@
+# PyInstaller関連の除外設定
+*build/
+*dist/
+*.spec
+__pycache__/
+*.exe
+.venv/
