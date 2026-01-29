@@ -2,7 +2,7 @@
 
 [マニュアル](doc/manual.md)
 
-[実行ファイルはReleasesからダウンロードしてください。](releases/tag/v1)
+[実行ファイルはReleasesからダウンロードしてください。](https://github.com/2ufkpfb9daxnik/DICOM_Viewer/releases/tag/v1)
 
 ## 開発
 
