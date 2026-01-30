@@ -2,7 +2,7 @@
 
 [マニュアル](doc/manual.md)
 
-[実行ファイルはReleasesからダウンロードしてください。](https://github.com/2ufkpfb9daxnik/DICOM_Viewer/releases/tag/v1)
+[ダウンロード](src/dist/MedViewer.exe)
 
 ## 開発
 
@@ -16,4 +16,10 @@ python -m venv .venv
 .venv\Scripts\activate.ps1
 pip install -r requirements.txt
 python main.py
+```
+
+ビルドは以下
+
+```powershell
+pyinstaller main.py --name="MedViewer" --onefile --noconsole --collect-all napari --collect-all magicgui --collect-all vispy --hidden-import=pydicom --copy-metadata=imageio --copy-metadata=napari
 ```
