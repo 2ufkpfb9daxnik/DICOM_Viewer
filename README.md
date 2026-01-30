@@ -2,7 +2,7 @@
 
 [マニュアル](doc/manual.md)
 
-[ダウンロード](src/dist/MedViewer.exe)
+[ダウンロード](https://github.com/2ufkpfb9daxnik/DICOM_Viewer/releases)
 
 ## 開発
 
